@@ -1,0 +1,3 @@
+bu ilk denemede playground kurduk aslında graphql'in kendi arayüzü var fakat bu playground arayüzü daha yaygın olduğu için böyle başladık.
+
+playground arayüzü dependency'de görebileceğin üzere core paketinin içinde geliyor
